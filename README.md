@@ -1,5 +1,7 @@
 # Tiny-Computer-Simulator
 
+![computer-family-computer](https://user-images.githubusercontent.com/50711847/174885868-9c213bfe-4a4a-4b42-84f2-0998775fbb71.gif)
+
 ## What is it?
 The tiny computer simulator is Racket program that simulates the Von Neumann architecture. The simulator assembles and executes assembly language programs fed into it! Here, I used a recursive approach to craft this project while making use of the built-in struct data structure in Racket.
 
