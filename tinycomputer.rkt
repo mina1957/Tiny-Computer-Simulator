@@ -981,7 +981,7 @@
     (y data -2)
     (z data y)))
 
-; a version of the program we wrote in lecture to sum up
+; a version of the program to sum up
 ; a zero-terminated sequence of numbers, output the sum, and halt.
 
 (define prog3
